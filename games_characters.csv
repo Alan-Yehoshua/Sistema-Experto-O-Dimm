@@ -1,0 +1,557 @@
+ID,Name,Is_free,Is_PVP,Genre_Acción,Genre_Aventura,Genre_Carreras,Genre_Casual,Genre_Deportes,Genre_Estrategia,Genre_Indie,Genre_Multijugador masivo,Genre_Rol,Genre_Simuladores,Mixed,Multijugador,Un jugador,Gano_GOTY
+10,Counter-Strike,False,True,1,0,0,0,0,0,0,0,0,0,False,True,False,False
+70,Half-Life,False,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+80,Counter-Strike: Condition Zero,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+130,Half-Life: Blue Shift,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+220,Half-Life 2,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+240,Counter-Strike: Source,False,False,1,0,0,0,0,0,0,0,0,0,False,True,False,False
+300,Day of Defeat: Source,False,False,1,0,0,0,0,0,0,0,0,0,False,True,False,False
+380,Half-Life 2: Episode One,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+400,Portal,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+420,Half-Life 2: Episode Two,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+440,Team Fortress 2,True,False,1,0,0,0,0,0,0,0,0,0,False,True,False,False
+500,Left 4 Dead,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+550,Left 4 Dead 2,False,True,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+570,Dota 2,True,False,1,0,0,0,0,1,0,0,0,0,False,True,False,False
+620,Portal 2,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+1250,Killing Floor,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+2600,Vampire: The Masquerade - Bloodlines,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+2990,FlatOut 2,False,True,0,0,1,0,0,0,0,0,0,0,False,False,True,False
+3590,Plants vs. Zombies GOTY Edition,False,False,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+3830,Psychonauts,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,False,True,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+4760,Rome: Total War™ - Collection,False,False,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+6000,STAR WARS™ Republic Commando™,False,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+6020,STAR WARS™ Jedi Knight - Jedi Academy™,False,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+6060,"STAR WARS™ Battlefront II (Classic, 2005)",False,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+6860,Hitman: Blood Money,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+6910,Deus Ex: Game of the Year Edition,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+7670,BioShock™,False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+8850,BioShock® 2,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+8870,BioShock Infinite,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+8930,Sid Meier's Civilization® V,False,False,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+8980,Borderlands Game of the Year,False,False,1,0,0,0,0,0,0,0,1,0,True,False,False,False
+9200,RAGE,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+9420,Supreme Commander: Forged Alliance,False,False,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+9480,Saints Row 2,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+10090,Call of Duty: World at War,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+10150,Prototype™,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+10180,Call of Duty®: Modern Warfare® 2 (2009),False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+10500,Total War: EMPIRE – Definitive Edition,False,True,0,0,0,0,0,1,0,0,0,0,True,False,False,False
+10680,Aliens vs. Predator™,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+12150,Max Payne 2: The Fall of Max Payne,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+12200,Bully: Scholarship Edition,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+12210,Grand Theft Auto IV: The Complete Edition,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+15100,Assassin's Creed™: Director's Cut Edition,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+17390,SPORE™,False,False,1,1,0,1,0,1,0,0,1,1,False,False,True,False
+17410,Mirror's Edge™,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+17460,Mass Effect (2007),False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+17470,Dead Space (2008),False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+17480,Command & Conquer™ Red Alert™ 3,False,False,1,0,0,0,0,1,0,0,0,0,False,False,True,False
+19680,Alice: Madness Returns,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+19900,Far Cry® 2,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+20510,S.T.A.L.K.E.R.: Clear Sky,False,True,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+20900,The Witcher: Enhanced Edition Director's Cut,False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+20920,The Witcher 2: Assassins of Kings Enhanced Edition,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+21000,LEGO® Batman™: The Videogame,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+21090,F.E.A.R.,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+21690,Resident Evil 5,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+22300,Fallout 3,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+22320,The Elder Scrolls III: Morrowind® Game of the Year Edition,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+22330,The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009),False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+22370,Fallout 3: Game of the Year Edition,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+22380,Fallout: New Vegas,False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+24240,PAYDAY™ The Heist,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+32440,LEGO® Star Wars™ - The Complete Saga,False,False,0,1,0,0,0,0,0,0,0,0,False,False,True,False
+33230,Assassin's Creed 2,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+33930,Arma 2: Operation Arrowhead,False,True,1,0,0,0,0,1,0,0,0,1,True,False,False,False
+34030,Total War: NAPOLEON – Definitive Edition,False,False,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+34330,Total War: SHOGUN 2,False,True,0,0,0,0,0,1,0,0,0,0,True,False,False,False
+34870,Sniper: Ghost Warrior 2,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+35010,Batman: Arkham Asylum Game of the Year Edition,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+35450,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,False,True,1,0,0,0,0,0,0,1,0,1,False,True,False,False
+35700,Trine Enchanted Edition,False,False,1,1,0,0,0,0,1,0,0,0,True,False,False,False
+35720,Trine 2: Complete Story,False,False,1,1,0,0,0,0,1,0,0,0,True,False,False,False
+39210,FINAL FANTASY XIV Online,False,True,0,0,0,0,0,0,0,1,1,0,True,False,False,False
+39510,Gothic II: Gold Edition,False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+40700,Machinarium,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+40800,Super Meat Boy,False,False,0,0,0,0,0,0,1,0,0,0,False,False,True,False
+40970,Stronghold Crusader HD (2012),False,True,0,0,0,0,0,1,0,0,0,1,False,False,True,False
+41070,Serious Sam 3: BFE,False,True,1,0,0,0,0,0,1,0,0,0,True,False,False,False
+41700,S.T.A.L.K.E.R.: Call of Pripyat,False,True,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+42910,Magicka,False,False,1,0,0,0,0,0,0,0,1,0,True,False,False,False
+42960,Victoria II,False,False,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+45760,Ultra Street Fighter® IV,False,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+47780,Dead Space™ 2,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+47810,Dragon Age: Origins - Ultimate Edition,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+47890,The Sims™ 3,False,False,0,0,0,0,0,0,0,0,0,1,False,False,True,False
+48720,Mount & Blade: With Fire & Sword,False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+49520,Borderlands 2,False,False,1,0,0,0,0,0,0,0,1,0,True,False,False,False
+50130,Mafia II (Classic),False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+55150,"Warhammer 40,000: Space Marine - Anniversary Edition",False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+55230,Saints Row: The Third,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+65540,Gothic 1,False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+71340,Sonic Generations Collection,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+72850,The Elder Scrolls V: Skyrim,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+105600,Terraria,False,True,1,1,0,0,0,0,1,0,1,0,True,False,False,False
+107100,Bastion,False,False,1,0,0,0,0,0,1,0,1,0,False,False,True,False
+107410,Arma 3,False,True,1,0,0,0,0,1,0,0,0,1,True,False,False,False
+108710,Alan Wake,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+110800,L.A. Noire,False,False,0,1,0,0,0,1,0,0,0,0,False,False,True,False
+113200,The Binding of Isaac,False,False,1,1,0,0,0,0,1,0,1,0,False,False,True,False
+115320,Prototype 2,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+200260,Batman: Arkham City - Game of the Year Edition,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+200510,XCOM: Enemy Unknown,False,False,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+200710,Torchlight II,False,False,1,1,0,0,0,0,1,0,1,0,True,False,False,False
+201790,Orcs Must Die! 2,False,False,1,1,0,0,0,1,1,0,1,0,True,False,False,False
+201810,Wolfenstein: The New Order,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+201870,Assassin's Creed® Revelations,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+202970,Call of Duty®: Black Ops II,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+203140,Hitman: Absolution™,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+203160,Tomb Raider,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+203770,Crusader Kings II,True,False,0,0,0,0,0,1,0,0,1,1,False,False,True,False
+204100,Max Payne 3,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+204300,Awesomenauts,False,True,1,0,0,0,0,1,1,0,0,0,True,False,False,False
+204880,Sins of a Solar Empire®: Rebellion,False,True,1,0,0,0,0,1,1,0,0,1,True,False,False,False
+205100,Dishonored,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+206190,Gunpoint,False,False,1,0,0,0,0,1,1,0,0,0,False,False,True,False
+206420,Saints Row IV: Re-Elected,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+206440,To the Moon,False,False,0,1,0,0,0,0,1,0,1,0,False,False,True,False
+207140,SpeedRunners,False,True,1,0,1,1,1,0,1,0,0,0,False,False,True,False
+207610,The Walking Dead,False,False,0,1,0,0,0,0,0,0,0,0,False,False,True,False
+208480,Assassin’s Creed® III,False,False,0,1,0,0,0,0,0,0,0,0,False,False,True,False
+209000,Batman™: Arkham Origins,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+209160,Call of Duty®: Ghosts,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+209650,Call of Duty®: Advanced Warfare - Gold Edition,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+210970,The Witness,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+211400,Deadlight,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+211820,Starbound,False,True,1,1,0,1,0,0,1,0,1,0,True,False,False,False
+212680,FTL: Faster Than Light,False,False,0,0,0,0,0,1,1,0,0,1,False,False,True,False
+214490,Alien: Isolation,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+214950,Total War: ROME II - Emperor Edition,False,True,0,0,0,0,0,1,0,0,0,0,True,False,False,False
+218620,PAYDAY 2,False,False,1,0,0,0,0,0,0,0,1,0,True,False,False,False
+219150,Hotline Miami,False,False,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+219640,Chivalry: Medieval Warfare,False,False,1,0,0,0,0,0,1,0,0,0,False,True,False,False
+219740,Don't Starve,False,False,0,1,0,0,0,0,1,0,0,1,False,False,True,False
+219890,Antichamber,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+219990,Grim Dawn,False,False,1,1,0,0,0,0,1,0,1,0,True,False,False,False
+220200,Kerbal Space Program,False,False,0,0,0,0,0,0,1,0,0,1,False,False,True,False
+220240,Far Cry 3,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+220440,DmC: Devil May Cry,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+221040,Resident Evil 6,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+221380,Age of Empires II (Retired),False,False,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+221640,Super Hexagon,False,False,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+222880,Insurgency,False,False,1,0,0,0,0,1,1,0,0,0,False,True,False,False
+223100,Homefront®: The Revolution,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+223470,POSTAL 2,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+224760,FEZ,False,False,0,0,0,0,0,0,1,0,0,0,False,False,True,False
+227300,Euro Truck Simulator 2,False,False,0,0,0,0,0,0,1,0,0,1,True,False,False,False
+228200,Company of Heroes,False,False,1,0,0,0,0,1,0,0,0,0,False,False,True,False
+228280,Baldur's Gate: Enhanced Edition,False,False,0,1,0,0,0,0,0,0,1,0,True,False,False,False
+228300,Remember Me,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+228380,Wreckfest,False,True,1,0,1,0,1,0,1,0,0,1,False,False,True,False
+232090,Killing Floor 2,False,True,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+232430,Gone Home,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+233130,Shadow Warrior,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+233270,Far Cry 3 - Blood Dragon,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+233290,Murdered: Soul Suspect,False,False,1,1,0,0,0,0,0,0,1,0,False,False,True,False
+233450,Prison Architect,False,False,0,0,0,0,0,1,1,0,0,1,False,False,True,False
+233720,Surgeon Simulator,False,False,1,0,0,0,0,0,1,0,0,1,False,False,True,False
+233860,Kenshi,False,False,1,0,0,0,0,1,1,0,1,1,False,False,True,False
+234140,Mad Max,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+234650,Shadowrun Returns,False,False,0,1,0,0,0,1,1,0,1,0,False,False,True,False
+234670,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,False,True,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+236850,Europa Universalis IV,False,True,0,0,0,0,0,1,0,0,0,1,True,False,False,False
+237930,Transistor,False,False,1,0,0,0,0,0,1,0,1,0,False,False,True,False
+237990,The Banner Saga,False,False,0,0,0,0,0,1,1,0,1,0,False,False,True,False
+238010,Deus Ex: Human Revolution - Director's Cut,False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+238320,Outlast,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+238430,Contagion,False,True,1,1,0,0,0,0,1,0,0,0,True,False,False,False
+238460,BattleBlock Theater®,False,True,1,1,0,1,0,0,1,0,0,0,True,False,False,False
+239030,"Papers, Please",False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+239140,Dying Light,False,True,1,0,0,0,0,0,0,0,1,0,True,False,False,False
+239160,Thief,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+239350,Spelunky,False,True,0,0,0,0,0,0,1,0,0,0,True,False,False,False
+239820,Game Dev Tycoon,False,False,0,0,0,1,0,1,1,0,0,1,False,False,True,False
+242550,Rayman® Legends,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+242640,Styx: Master of Shadows,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+242680,Nuclear Throne,False,False,1,0,0,0,0,0,1,0,1,0,False,False,True,False
+242700,Injustice: Gods Among Us Ultimate Edition,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+242760,The Forest,False,False,1,1,0,0,0,0,1,0,0,1,True,False,False,False
+242860,Verdun,False,True,1,0,0,0,0,1,1,1,0,1,False,False,True,False
+242920,Banished,False,False,0,0,0,0,0,1,1,0,0,1,False,False,True,False
+243470,Watch_Dogs™,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+244160,Homeworld Remastered Collection,False,False,0,0,0,0,0,1,0,0,0,1,False,False,True,False
+244210,Assetto Corsa,False,True,0,0,1,0,1,0,1,0,0,1,False,False,True,False
+244450,Men of War: Assault Squad 2,False,False,1,0,0,0,0,1,0,0,0,1,True,False,False,False
+245170,Skullgirls 2nd Encore,False,True,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+245620,Tropico 5,False,False,0,0,0,0,0,1,0,0,1,1,True,False,False,False
+247080,Crypt of the NecroDancer,False,False,1,0,0,0,0,0,1,0,1,0,True,False,False,False
+249130,LEGO® Marvel™ Super Heroes,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+250320,The Wolf Among Us,False,False,1,1,0,1,0,0,0,0,0,0,False,False,True,False
+250400,How to Survive,False,False,1,1,0,0,0,0,0,0,1,0,True,False,False,False
+250760,Shovel Knight: Treasure Trove,False,True,1,1,0,0,0,0,1,0,0,0,True,False,False,False
+251060,Wargame: Red Dragon,False,True,0,0,0,0,0,1,1,0,0,1,True,False,False,False
+252490,Rust,False,True,1,1,0,0,0,0,1,1,1,0,False,True,False,False
+252950,Rocket League®,False,True,1,0,1,0,1,0,1,0,0,0,True,False,False,False
+253230,A Hat in Time,False,False,0,1,0,0,0,0,1,0,0,0,True,False,False,False
+254700,Resident Evil 4 (2005),False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+255710,Cities: Skylines,False,False,0,0,0,0,0,1,0,0,0,1,False,False,True,False
+256290,Child of Light,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+257420,Serious Sam 4,False,False,1,1,0,0,0,0,1,0,0,0,True,False,False,False
+257510,The Talos Principle,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+257850,Hyper Light Drifter,False,True,1,1,0,0,0,0,1,0,1,0,True,False,False,False
+261030,The Walking Dead: Season Two,False,False,0,1,0,0,0,0,0,0,0,0,False,False,True,False
+261550,Mount & Blade II: Bannerlord,False,True,1,0,0,0,0,1,1,0,1,1,False,False,True,False
+261570,Ori and the Blind Forest,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+261640,Borderlands: The Pre-Sequel,False,False,1,0,0,0,0,0,0,0,1,0,True,False,False,False
+262060,Darkest Dungeon®,False,False,0,0,0,0,0,1,1,0,1,0,False,False,True,False
+264710,Subnautica,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+265300,Lords Of The Fallen™ 2014,False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+265930,Goat Simulator,False,False,0,0,0,1,0,0,1,0,0,1,False,False,True,False
+266840,Age of Mythology: Extended Edition,False,False,0,0,0,0,0,1,0,0,0,1,True,False,False,False
+268500,XCOM® 2,False,False,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+268910,Cuphead,False,False,1,0,0,0,0,0,1,0,0,0,True,False,False,False
+270150,RUNNING WITH RIFLES,False,True,1,0,0,0,0,0,1,0,0,0,True,False,False,False
+270880,American Truck Simulator,False,False,0,0,0,0,0,0,1,0,0,1,True,False,False,False
+271590,Grand Theft Auto V Legacy,False,True,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+274190,Broforce,False,True,1,1,0,1,0,0,1,0,0,0,True,False,False,False
+274520,Darkwood,False,False,1,1,0,0,0,0,1,0,1,0,False,False,True,False
+274940,Depth,False,True,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+275850,No Man's Sky,False,True,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+280160,Aragami,False,False,1,1,0,0,0,0,1,0,0,0,True,False,False,False
+281990,Stellaris,False,False,0,0,0,0,0,1,0,0,0,1,False,False,True,False
+282070,This War of Mine,False,False,0,1,0,0,0,0,1,0,0,1,False,False,True,False
+282140,SOMA,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+285190,"Warhammer 40,000: Dawn of War III",False,True,1,0,0,0,0,1,0,0,0,1,False,False,True,False
+287390,Metro: Last Light Redux,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+287450,Rise of Nations: Extended Edition,False,False,0,0,0,0,0,1,0,0,0,1,True,False,False,False
+287700,METAL GEAR SOLID V: THE PHANTOM PAIN,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+289070,Sid Meier’s Civilization® VI,False,True,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+289130,ENDLESS™ Legend,False,True,0,0,0,0,0,1,0,0,1,0,False,False,True,False
+290340,Armello,False,True,0,1,0,0,0,1,1,0,1,0,False,False,True,False
+291650,Pillars of Eternity,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+292030,The Witcher 3: Wild Hunt,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,True
+294100,RimWorld,False,False,0,0,0,0,0,1,1,0,0,1,False,False,True,False
+298110,Far Cry® 4,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+298630,The Escapists,False,False,1,1,0,0,0,1,1,0,0,1,False,False,True,False
+302510,Ryse: Son of Rome,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+304240,Resident Evil,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+304390,FOR HONOR™,False,True,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+304430,INSIDE,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+306130,The Elder Scrolls® Online,False,True,1,1,0,0,0,0,0,1,1,0,False,True,False,False
+307780,Mortal Kombat X,False,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+310950,Street Fighter V,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+311210,Call of Duty®: Black Ops III,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+311340,METAL GEAR SOLID V: GROUND ZEROES,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+311560,Assassin’s Creed® Rogue,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+311690,Enter the Gungeon,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+312520,Rain World,False,True,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+312530,Duck Game,False,True,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+312660,Sniper Elite 4,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+313160,Farming Simulator 15,False,False,0,0,0,0,0,0,0,0,0,1,True,False,False,False
+319510,Five Nights at Freddy's,False,False,0,0,0,0,0,0,1,0,0,1,False,False,True,False
+322330,Don't Starve Together,False,True,1,1,0,0,0,1,1,0,1,1,True,False,False,False
+322500,SUPERHOT,False,False,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+324800,Shadow Warrior 2,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+325610,Total War: ATTILA,False,True,0,0,0,0,0,1,0,0,0,0,True,False,False,False
+327030,Worms W.M.D,False,True,1,0,0,0,0,1,0,0,0,0,False,False,True,False
+332800,Five Nights at Freddy's 2,False,False,0,0,0,0,0,0,1,0,0,0,False,False,True,False
+335300,DARK SOULS™ II: Scholar of the First Sin,False,False,1,0,0,0,0,0,0,0,1,0,True,False,False,False
+335670,LISA: The Painful,False,False,0,1,0,0,0,0,1,0,1,0,False,False,True,False
+341800,Keep Talking and Nobody Explodes,False,False,0,0,0,0,0,0,1,0,0,0,False,True,False,False
+341940,Hatred,False,False,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+346110,ARK: Survival Evolved,False,False,1,1,0,0,0,0,1,1,1,0,True,False,False,False
+350640,Sherlock Holmes: The Devil's Daughter,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+356570,Party Hard,False,False,1,0,0,0,0,1,1,0,0,0,True,False,False,False
+359320,Elite Dangerous,False,False,1,1,0,0,0,1,0,1,1,1,True,False,False,False
+362680,Fran Bow,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+362890,Black Mesa,False,True,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+362960,Tyranny,False,False,0,1,0,0,0,0,0,0,1,0,False,False,True,False
+365360,Battle Brothers,False,False,0,0,0,0,0,1,0,0,1,1,False,False,True,False
+365450,Hacknet,False,False,0,0,0,0,0,0,1,0,0,1,False,False,True,False
+368340,CrossCode,False,False,1,1,0,0,0,0,1,0,1,0,False,False,True,False
+368500,Assassin's Creed® Syndicate,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+373420,Divinity: Original Sin - Enhanced Edition,False,False,0,1,0,0,0,1,1,0,1,0,True,False,False,False
+374040,Portal Knights,False,False,1,1,0,0,0,0,0,0,1,0,True,False,False,False
+374320,DARK SOULS™ III,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+379430,Kingdom Come: Deliverance,False,False,1,1,0,0,0,0,0,0,1,0,False,False,True,False
+379720,DOOM,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+383870,Firewatch,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+384190,ABZU,False,False,0,1,0,1,0,0,1,0,0,1,False,False,True,False
+387290,Ori and the Blind Forest: Definitive Edition,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+388090,Five Nights at Freddy's 4,False,False,1,0,0,0,0,1,1,0,0,0,False,False,True,False
+388880,Oxenfree,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+389730,TEKKEN 7,False,True,1,0,0,0,1,0,0,0,0,0,False,False,True,False
+391220,Rise of the Tomb Raider™,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+391540,Undertale,False,False,0,0,0,0,0,0,1,0,1,0,False,False,True,False
+391720,Layers of Fear (2016),False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+392110,ENDLESS™ Space 2,False,True,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+394510,HELLDIVERS™ Dive Harder Edition,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+396750,EVERSPACE™,False,False,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+403640,Dishonored 2,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+410900,Forts,False,True,1,0,0,0,0,1,1,0,0,0,True,False,False,False
+411300,ELEX,False,False,1,1,0,0,0,0,0,0,1,0,False,False,True,False
+412020,Metro Exodus,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+414340,Hellblade: Senua's Sacrifice,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+414700,Outlast 2,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+415200,Motorsport Manager,False,False,0,0,1,0,1,1,0,0,0,1,False,False,True,False
+418240,Shadow Tactics: Blades of the Shogun,False,False,0,0,0,0,0,1,1,0,0,0,False,False,True,False
+418370,Resident Evil 7 Biohazard,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+418460,Rising Storm 2: Vietnam,False,True,1,0,0,0,0,1,0,1,0,1,False,True,False,False
+418530,Spelunky 2,False,True,1,0,0,0,0,0,1,0,0,0,True,False,False,False
+423230,Furi,False,False,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+427290,Vampyr,False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+427520,Factorio,False,False,0,0,0,1,0,1,1,0,0,1,True,False,False,False
+428550,Momodora: Reverie Under The Moonlight,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+429660,Tales of Berseria™,False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+433340,Slime Rancher,False,False,1,1,0,0,0,0,1,0,0,1,False,False,True,False
+433850,Z1 Battle Royale,True,True,1,1,0,0,0,0,0,1,0,0,False,True,False,False
+437920,Tricky Towers,False,True,0,0,0,1,0,0,1,0,0,0,False,False,True,False
+445980,Wizard of Legend,False,False,1,1,0,0,0,0,1,0,0,0,True,False,False,False
+446800,Transport Fever,False,False,0,0,0,0,0,0,0,0,0,1,False,False,True,False
+447020,Farming Simulator 17,False,False,0,0,0,0,0,0,0,0,0,1,True,False,False,False
+447530,VA-11 Hall-A: Cyberpunk Bartender Action,False,False,0,1,0,0,0,0,1,0,0,1,False,False,True,False
+447820,Day of Infamy,False,True,1,0,0,0,0,1,1,0,0,0,False,True,False,False
+449960,Book of Demons,False,False,1,1,0,1,0,0,1,0,1,0,False,False,True,False
+454650,DRAGON BALL XENOVERSE 2,False,True,1,1,0,1,0,0,0,1,0,0,True,False,False,False
+457140,Oxygen Not Included,False,False,0,0,0,0,0,0,1,0,0,1,False,False,True,False
+460790,Bayonetta,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+460920,Steep™,False,True,1,0,0,0,1,0,0,0,0,0,False,False,True,False
+460950,Katana ZERO,False,False,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+464060,RUINER,False,False,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+464920,Surviving Mars,False,False,0,0,0,0,0,1,0,0,0,1,False,False,True,False
+473690,Absolver,False,True,1,1,0,0,0,0,1,0,0,0,True,False,False,False
+474960,Quantum Break,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+475550,Beholder,False,False,0,1,0,0,0,1,1,0,0,0,False,False,True,False
+481510,Night in the Woods,False,False,0,1,0,0,0,0,0,0,0,0,False,False,True,False
+493340,Planet Coaster,False,False,1,1,0,1,0,1,0,0,0,1,False,False,True,False
+493520,GTFO,False,False,1,0,0,0,0,0,0,0,0,0,False,True,False,False
+493900,Dungeons 3,False,False,0,0,0,0,0,1,0,0,0,1,True,False,False,False
+495420,State of Decay 2: Juggernaut Edition,False,False,1,0,0,0,0,0,0,0,1,1,True,False,False,False
+501300,What Remains of Edith Finch,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+502500,ACE COMBAT™ 7: SKIES UNKNOWN,False,True,1,0,0,0,0,0,0,0,0,1,False,False,True,False
+504230,Celeste,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+504370,Battlerite,True,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+506610,Five Nights at Freddy's: Sister Location,False,False,1,0,0,0,0,0,1,0,0,1,False,False,True,False
+524220,NieR:Automata™,False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+526870,Satisfactory,False,False,0,1,0,0,0,1,1,0,0,1,True,False,False,False
+527230,For The King,False,True,0,1,0,0,0,1,1,0,1,0,True,False,False,False
+527430,"Warhammer 40,000: Inquisitor - Martyr",False,True,1,1,0,0,0,0,1,0,1,0,True,False,False,False
+535930,Two Point Hospital,False,False,0,0,0,0,0,0,1,0,0,1,False,False,True,False
+537800,Bomber Crew,False,False,0,0,0,0,0,1,0,0,0,1,False,False,True,False
+544750,SOULCALIBUR VI,False,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+546560,Half-Life: Alyx,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+548430,Deep Rock Galactic,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+548570,RAGE 2,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+552500,Warhammer: Vermintide 2,False,False,1,0,0,0,0,0,1,0,1,0,True,False,False,False
+552620,ATOM RPG: Post-apocalyptic indie game,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+554620,Life is Strange: Before the Storm,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+555220,Detention,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+557340,My Friend Pedro,False,False,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+557600,Gorogoa,False,False,0,1,0,1,0,0,1,0,0,0,False,False,True,False
+567640,Danganronpa V3: Killing Harmony,False,False,0,1,0,0,0,0,0,0,0,0,False,False,True,False
+570940,DARK SOULS™: REMASTERED,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+573100,Battlefleet Gothic: Armada 2,False,True,0,0,0,0,0,1,0,0,0,0,True,False,False,False
+578650,The Outer Worlds,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+581320,Insurgency: Sandstorm,False,True,1,0,0,0,0,0,0,0,0,0,False,True,False,False
+582010,Monster Hunter: World,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+582660,Black Desert,False,True,1,1,0,0,0,1,0,1,1,0,False,True,False,False
+583950,Artifact,True,True,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+584400,Sonic Mania,False,True,1,1,0,1,0,0,0,0,0,0,True,False,False,False
+588650,Dead Cells,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+589780,The Red Strings Club,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+594570,Total War: WARHAMMER II,False,True,1,0,0,0,0,1,0,0,0,0,True,False,False,False
+594650,Hunt: Showdown 1896,False,True,1,0,0,0,0,0,0,0,0,0,False,True,False,False
+597170,Clone Drone in the Danger Zone,False,True,1,0,0,0,0,0,1,0,0,0,True,False,False,False
+597220,West of Loathing,False,False,0,1,0,0,0,0,1,0,1,0,False,False,True,False
+599140,Graveyard Keeper,False,False,0,1,0,0,0,0,1,0,1,1,False,False,True,False
+601150,Devil May Cry 5,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+601430,The Evil Within 2,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+602960,Barotrauma,False,True,1,0,0,0,0,1,1,0,0,1,True,False,False,False
+606280,Darksiders III,False,False,1,1,0,0,0,0,0,0,1,0,False,False,True,False
+606880,GreedFall,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+607080,Psychonauts 2,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+609320,FAR: Lone Sails,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+610370,Desperados III,False,False,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+612880,Wolfenstein II: The New Colossus,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+613100,House Flipper,False,False,0,0,0,0,0,0,1,0,0,1,False,False,True,False
+614570,Dishonored®: Death of the Outsider™,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+617290,Remnant: From the Ashes,False,False,1,1,0,0,0,0,0,0,1,0,True,False,False,False
+620980,Beat Saber,False,True,0,0,0,0,0,0,1,0,0,0,False,False,True,False
+629760,MORDHAU,False,True,1,0,0,0,0,0,1,0,0,0,False,True,False,False
+629820,Maneater,False,False,1,1,0,0,0,0,1,0,1,0,False,False,True,False
+632360,Risk of Rain 2,False,True,1,0,0,0,0,0,1,0,0,0,True,False,False,False
+632470,Disco Elysium - The Final Cut,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+637090,BATTLETECH,False,True,1,1,0,0,0,1,0,0,0,0,False,False,True,False
+640820,Pathfinder: Kingmaker — Enhanced Plus Edition,False,False,0,1,0,0,0,0,0,0,1,0,False,False,True,False
+641320,Cooking Simulator,False,False,0,0,0,1,0,0,0,0,0,1,False,False,True,False
+641990,The Escapists 2,False,True,0,0,0,0,0,1,1,0,0,1,True,False,False,False
+644930,They Are Billions,False,False,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+646570,Slay the Spire,False,False,0,0,0,0,0,1,1,0,0,0,False,False,True,False
+648350,Jurassic World Evolution,False,False,0,0,0,0,0,1,0,0,0,1,False,False,True,False
+656350,UnderMine,False,False,1,1,0,0,0,0,1,0,1,0,False,False,True,False
+668580,Atomic Heart,False,False,1,1,0,0,0,0,0,0,1,0,False,False,True,False
+678950,DRAGON BALL FighterZ,False,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+678960,CODE VEIN,False,False,1,0,0,0,0,0,0,0,1,0,True,False,False,False
+682990,Drug Dealer Simulator,False,False,1,1,0,0,0,0,1,0,0,1,False,False,True,False
+683320,GRIS,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+686810,Hell Let Loose,False,True,1,0,0,0,0,1,1,1,0,1,False,True,False,False
+690640,Trine 4: The Nightmare Prince,False,False,1,1,0,0,0,0,1,0,0,0,True,False,False,False
+690790,DiRT Rally 2.0,False,True,0,0,1,0,1,0,0,0,0,1,False,False,True,False
+690830,Foundation,False,False,0,0,0,0,0,1,1,0,0,1,False,False,True,False
+702670,Donut County,False,False,0,1,0,1,0,0,1,0,0,0,False,False,True,False
+703080,Planet Zoo,False,False,0,0,0,1,0,1,0,0,0,1,False,False,True,False
+710920,Darksiders Genesis,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+714120,Little Misfortune,False,False,0,1,0,1,0,0,1,0,0,0,False,False,True,False
+718670,Cultist Simulator,False,False,0,0,0,0,0,0,1,0,1,1,False,False,True,False
+728880,Overcooked! 2,False,True,1,0,0,1,0,0,1,0,0,0,True,False,False,False
+736260,Baba Is You,False,False,0,0,0,0,0,0,1,0,0,0,False,False,True,False
+738520,Breathedge,False,False,1,1,0,0,0,0,1,0,0,1,False,False,True,False
+743450,Monster Prom,False,True,0,0,0,0,0,0,1,0,0,1,False,False,True,False
+745920,Temtem,False,True,0,1,0,0,0,0,1,1,1,0,False,True,False,False
+746850,Cloudpunk,False,False,0,1,0,0,0,0,1,0,1,0,False,False,True,False
+750920,Shadow of the Tomb Raider: Definitive Edition,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+752590,A Plague Tale: Innocence,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+753640,Outer Wilds,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+756800,Contraband Police,False,False,1,1,0,0,0,0,0,0,0,1,False,False,True,False
+763890,Wildermyth,False,False,0,0,0,0,0,1,1,0,1,0,True,False,False,False
+764790,The Messenger,False,False,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+775500,SCARLET NEXUS,False,False,1,1,0,0,0,0,0,0,1,0,False,False,True,False
+779340,Total War: THREE KINGDOMS,False,True,1,0,0,0,0,1,0,0,0,0,True,False,False,False
+780290,Gloomhaven,False,False,0,1,0,0,0,1,0,0,1,0,True,False,False,False
+780310,The Riftbreaker,False,False,1,1,0,0,0,1,1,0,1,1,True,False,False,False
+784080,MechWarrior 5: Mercenaries,False,False,1,0,0,0,0,0,0,0,0,1,True,False,False,False
+784150,Workers & Resources: Soviet Republic,False,False,0,0,0,0,0,1,0,0,0,1,False,False,True,False
+787860,Farming Simulator 19,False,False,0,0,0,0,0,0,0,0,0,1,True,False,False,False
+792300,The Beast Inside,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+805550,Assetto Corsa Competizione,False,True,0,0,1,0,1,0,0,0,0,1,False,False,True,False
+813230,ANIMAL WELL,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+813630,Supraland,False,False,1,1,0,0,0,0,1,0,1,0,False,False,True,False
+813780,Age of Empires II: Definitive Edition,False,True,0,0,0,0,0,1,0,0,0,0,True,False,False,False
+814370,Monster Sanctuary,False,True,1,1,0,0,0,1,1,0,1,0,False,False,True,False
+815370,Green Hell,False,False,1,1,0,0,0,0,1,0,0,1,True,False,False,False
+823500,BONEWORKS,False,False,1,1,0,0,0,0,1,0,0,1,False,False,True,False
+834530,Yakuza Kiwami,False,False,1,1,0,0,0,0,0,0,1,0,False,False,True,False
+837470,Untitled Goose Game,False,False,1,0,0,0,0,0,1,0,0,0,True,False,False,False
+847370,Sunset Overdrive,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+851850,DRAGON BALL Z: KAKAROT,False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+859580,Imperator: Rome,False,True,0,0,0,0,0,1,0,0,0,1,False,False,True,False
+860510,Little Nightmares II,False,False,0,1,0,0,0,0,0,0,0,0,False,False,True,False
+861540,Dicey Dungeons,False,False,0,0,0,0,0,1,1,0,0,0,False,False,True,False
+865360,We Were Here Together,False,False,0,1,0,1,0,0,1,0,0,0,False,True,False,False
+874260,The Forgotten City,False,False,0,1,0,0,0,0,1,0,1,0,False,False,True,False
+895870,Project Wingman,False,False,1,0,0,0,0,0,1,0,0,1,False,False,True,False
+899770,Last Epoch,False,False,1,1,0,0,0,0,1,0,1,0,True,False,False,False
+900883,The Elder Scrolls IV: Oblivion® Game of the Year Edition Deluxe (2009),False,False,0,0,0,0,0,0,0,0,0,0,False,False,True,False
+914800,Coffee Talk,False,False,0,1,0,1,0,0,1,0,0,0,False,False,True,False
+916440,Anno 1800,False,True,0,0,0,0,0,1,0,0,0,1,True,False,False,False
+920210,LEGO® Star Wars™: La Saga Skywalker,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+924970,Back 4 Blood,False,True,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+927380,Yakuza Kiwami 2,False,False,1,1,0,0,0,0,0,0,1,0,False,False,True,False
+933110,Age of Empires III: Definitive Edition,True,True,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+942970,Unheard,False,False,0,0,0,0,0,0,1,0,1,1,False,False,True,False
+945360,Among Us,False,True,0,0,0,1,0,0,0,0,0,0,False,True,False,False
+953490,CARRION,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+960910,Heavy Rain,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+960990,Beyond: Two Souls,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+962130,Grounded,False,False,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+962730,Skater XL - The Ultimate Skateboarding Game,False,False,1,1,0,0,1,0,1,0,0,1,True,False,False,False
+972660,Spiritfarer®: Edición Farewell,False,False,0,1,0,0,0,0,1,0,0,1,True,False,False,False
+975370,Dwarf Fortress,False,False,0,0,0,0,0,1,1,0,0,1,False,False,True,False
+976310,Mortal Kombat 11,False,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+977880,Eastward,False,False,1,1,0,0,0,0,1,0,1,0,False,False,True,False
+985890,Streets of Rage 4,False,True,1,0,0,0,0,0,1,0,0,0,True,False,False,False
+990080,Hogwarts Legacy,False,False,1,1,0,0,0,0,0,0,1,0,False,False,True,False
+990630,The Last Campfire,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+1016800,Chernobylite Complete Edition,False,False,1,1,0,0,0,0,1,0,1,1,False,False,True,False
+1016920,Unrailed!,False,True,1,0,0,1,0,0,1,0,0,0,True,False,False,False
+1017900,Age of Empires: Definitive Edition,False,True,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+1029690,Sniper Elite 5,False,True,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+1030300,Hollow Knight: Silksong,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+1030840,Mafia: Edición Definitiva,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+1044720,Farthest Frontier,False,False,0,0,0,0,0,1,1,0,0,1,False,False,True,False
+1046030,ISLANDERS,False,False,0,0,0,1,0,1,1,0,0,0,False,False,True,False
+1056960,Wolfenstein: Youngblood,False,True,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+1057090,Ori and the Will of the Wisps,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+1059990,Trombone Champ,False,False,0,0,0,1,0,0,1,0,0,0,False,False,True,False
+1063660,Bendy and the Dark Revival,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+1084160,Jagged Alliance 3,False,False,1,0,0,0,0,1,0,0,0,0,True,False,False,False
+1084600,My Time at Sandrock,False,False,0,1,0,1,0,0,1,0,1,1,True,False,False,False
+1086940,Baldur's Gate 3,False,False,0,1,0,0,0,1,0,0,1,0,True,False,False,True
+1088850,Marvel's Guardians of the Galaxy,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+1092790,Inscryption,False,False,0,1,0,0,0,1,1,0,0,0,False,False,True,False
+1097150,Fall Guys,False,True,1,0,0,1,1,0,1,1,0,0,False,True,False,False
+1097840,Gears 5,False,True,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+1100600,Football Manager 2020,False,False,0,0,0,0,1,0,0,0,0,1,False,False,True,False
+1113000,Persona 4 Golden,False,False,0,0,0,0,0,0,0,0,1,0,False,False,True,False
+1127500,Mini Motorways,False,False,0,0,0,1,0,1,0,0,0,1,False,False,True,False
+1128920,EVERSPACE™ 2,False,False,1,1,0,0,0,0,0,0,1,1,False,False,True,False
+1129580,Medieval Dynasty,False,False,1,1,0,0,0,0,1,0,1,1,True,False,False,False
+1135690,Unpacking,False,False,0,0,0,1,0,0,1,0,0,1,False,False,True,False
+1139900,Ghostrunner,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+1142710,Total War: WARHAMMER III,False,True,1,0,0,0,0,1,0,0,0,0,True,False,False,False
+1145350,Hades II,False,False,1,0,0,0,0,0,1,0,1,0,False,False,True,False
+1145360,Hades,False,False,1,0,0,0,0,0,1,0,1,0,False,False,True,False
+1149620,Gas Station Simulator,False,False,0,0,0,1,0,0,1,0,0,1,False,False,True,False
+1150440,Aliens: Dark Descent,False,False,1,0,0,0,0,1,0,0,0,0,False,False,True,False
+1150690,OMORI,False,False,0,1,0,0,0,0,1,0,1,0,False,False,True,False
+1158310,Crusader Kings III,False,True,0,0,0,0,0,1,0,0,1,1,False,False,True,False
+1161580,Hardspace: Shipbreaker,False,False,0,0,0,0,0,0,0,0,0,1,False,False,True,False
+1164940,Trepang2,False,False,1,0,0,0,0,0,1,0,0,0,False,False,True,False
+1167630,Teardown,False,False,1,0,0,0,0,1,1,0,0,1,False,False,True,False
+1172380,STAR WARS Jedi: La Orden caída™,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+1174180,Red Dead Redemption 2,False,True,1,1,0,0,0,0,0,0,0,0,True,False,False,False
+1182620,Impostor Factory,False,False,0,1,0,1,0,0,1,0,1,0,False,False,True,False
+1182900,A Plague Tale: Requiem,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+1184370,Pathfinder: Wrath of the Righteous - Enhanced Edition,False,False,1,1,0,0,0,1,1,0,1,0,False,False,True,False
+1190970,House Flipper 2,False,False,0,0,0,1,0,0,1,0,0,1,True,False,False,False
+1196590,Resident Evil Village,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+1207650,Suzerain,False,False,0,1,0,0,0,0,1,0,1,0,False,False,True,False
+1213210,Command & Conquer™ Remastered Collection,False,True,0,0,0,0,0,1,0,0,0,0,False,False,True,False
+1222730,STAR WARS™: Squadrons,False,True,1,0,0,0,0,0,0,0,0,1,True,False,False,False
+1233570,Mirror's Edge™ Catalyst,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+1235140,Yakuza: Like a Dragon,False,False,1,1,0,0,0,0,0,0,1,0,False,False,True,False
+1237970,Titanfall® 2,False,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+1238000,Edición Deluxe de Mass Effect™: Andromeda,False,False,1,0,0,0,0,0,0,0,1,0,True,False,False,False
+1238060,Dead Space™ 3,False,False,1,0,0,0,0,0,0,0,0,0,True,False,False,False
+1238820,Battlefield 3™,False,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+1239080,Door Kickers 2: Task Force North,False,False,1,0,0,0,0,1,1,0,0,1,True,False,False,False
+1244090,Sea of Stars,False,False,0,1,0,0,0,0,1,0,1,0,True,False,False,False
+1244460,Jurassic World Evolution 2,False,False,0,0,0,0,0,1,0,0,0,1,False,False,True,False
+1245620,ELDEN RING,False,True,1,0,0,0,0,0,0,0,1,0,True,False,False,True
+1250410,Microsoft Flight Simulator (2020) 40th Anniversary Edition,False,False,0,0,0,0,0,0,0,0,0,1,False,False,True,False
+1252330,DEATHLOOP,False,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+1253920,Rogue Legacy 2,False,False,1,1,0,0,0,0,1,0,1,0,False,False,True,False
+1262240,Plants vs. Zombies™ La Batalla de Neighborville,False,True,1,0,0,1,0,1,0,0,0,0,False,False,True,False
+1262560,Need for Speed™ Most Wanted,False,True,1,1,1,0,0,0,0,0,0,0,False,False,True,False
+1262580,Need for Speed™ Payback,False,True,1,1,1,0,1,1,0,0,0,0,True,False,False,False
+1276790,Ruined King: A League of Legends Story™,False,False,0,0,0,0,0,0,1,0,1,0,False,False,True,False
+1277400,Monster Hunter Stories 2: Wings of Ruin,False,True,0,1,0,0,0,0,0,0,1,0,True,False,False,False
+1282730,Loop Hero,False,False,0,0,0,0,0,1,1,0,1,0,False,False,True,False
+1283410,Tails of Iron,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+1285190,Borderlands 4,False,False,1,1,0,0,0,0,0,0,1,0,True,False,False,False
+1295660,Sid Meier's Civilization VII,False,True,0,0,0,0,0,1,0,0,0,1,False,False,True,False
+1325200,Nioh 2 – The Complete Edition,False,False,1,0,0,0,0,0,0,0,1,0,True,False,False,False
+1328660,Need for Speed™ Hot Pursuit Remastered,False,False,1,0,1,0,0,0,0,0,0,0,False,False,True,False
+1328670,Mass Effect™ Legendary Edition,False,False,1,0,0,0,0,0,0,0,1,0,False,False,True,False
+1332010,Stray,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+1336490,Against the Storm,False,False,0,0,0,0,0,1,0,0,0,1,False,False,True,False
+1361510,Teenage Mutant Ninja Turtles: Shredder's Revenge,False,False,1,1,0,1,0,0,1,0,0,0,True,False,False,False
+1364780,Street Fighter™ 6,False,True,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+1382070,Viewfinder,False,False,0,1,0,0,0,0,1,0,0,0,False,False,True,False
+1382330,Persona® 5 Strikers,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,False
+1384160,GUILTY GEAR -STRIVE-,False,True,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+1424330,Wobbledogs,False,False,0,0,0,1,0,0,1,0,0,1,False,False,True,False
+1426210,It Takes Two,False,False,1,1,0,0,0,0,0,0,0,0,False,True,False,True
+1448440,Wo Long: Fallen Dynasty,False,True,1,1,0,0,0,0,0,0,1,0,True,False,False,False
+1466640,Road 96 🛣️,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+1466860,Age of Empires IV: Anniversary Edition,False,True,0,0,0,0,0,1,0,0,0,0,True,False,False,False
+1475810,Ghostwire: Tokyo,False,False,1,0,0,0,0,0,0,0,0,0,False,False,True,False
+1501750,Lords of the Fallen,False,True,1,1,0,0,0,0,0,0,1,0,True,False,False,False
+1533420,Neon White,False,False,1,1,0,0,0,0,1,0,0,0,False,False,True,False
+1556790,Isonzo,False,True,1,0,0,0,0,1,1,1,0,1,False,False,True,False
+1569040,Football Manager 2022,False,False,0,0,0,0,1,0,0,0,0,1,False,False,True,False
+1222690,Dragon Age™ Inquisition,False,False,1,1,0,0,0,1,0,0,1,0,True,False,False,True
+1593500,God of War,False,False,1,1,0,0,0,0,0,0,1,0,False,False,True,True
+814380,Sekiro™: Shadows Die Twice - GOTY Edition,False,False,1,1,0,0,0,0,0,0,0,0,False,False,True,True

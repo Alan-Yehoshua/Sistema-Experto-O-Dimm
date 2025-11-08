@@ -1,0 +1,179 @@
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 0 Y Is_PVP = 0 Y Multijugador = 0 Y Genre_Indie = 0 → ENTONCES EL JUEGO ES: The Elder Scrolls IV: OblivionÂ® Game of the Year Edition Deluxe (2009)
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 0 Y Is_PVP = 0 Y Multijugador = 0 Y Genre_Indie = 1 Y Genre_Casual = 0 → ENTONCES EL JUEGO ES: Baba Is You
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 0 Y Is_PVP = 0 Y Multijugador = 0 Y Genre_Indie = 1 Y Genre_Casual = 1 → ENTONCES EL JUEGO ES: Trombone Champ
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 0 Y Is_PVP = 0 Y Multijugador = 1 → ENTONCES EL JUEGO ES: Keep Talking and Nobody Explodes
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 0 Y Is_PVP = 1 Y Genre_Casual = 0 Y Mixed = 0 Y Genre_Indie = 0 → ENTONCES EL JUEGO ES: FlatOut 2
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 0 Y Is_PVP = 1 Y Genre_Casual = 0 Y Mixed = 0 Y Genre_Indie = 1 → ENTONCES EL JUEGO ES: Beat Saber
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 0 Y Is_PVP = 1 Y Genre_Casual = 0 Y Mixed = 1 → ENTONCES EL JUEGO ES: Spelunky
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 0 Y Is_PVP = 1 Y Genre_Casual = 1 Y Multijugador = 0 → ENTONCES EL JUEGO ES: Tricky Towers
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 0 Y Is_PVP = 1 Y Genre_Casual = 1 Y Multijugador = 1 → ENTONCES EL JUEGO ES: Among Us
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 1 Y Genre_Indie = 0 Y Genre_Multijugador masivo = 0 Y Gano_GOTY = 0 → ENTONCES EL JUEGO ES: ATOM RPG: Post-apocalyptic indie game
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 1 Y Genre_Indie = 0 Y Genre_Multijugador masivo = 0 Y Gano_GOTY = 1 → ENTONCES EL JUEGO ES: The Witcher 3: Wild Hunt
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 1 Y Genre_Indie = 0 Y Genre_Multijugador masivo = 1 → ENTONCES EL JUEGO ES: FINAL FANTASY XIV Online
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 1 Y Genre_Indie = 1 → ENTONCES EL JUEGO ES: Ruined King: A League of Legends Storyâ¢
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 1 Y Is_PVP = 0 Y Genre_Indie = 0 → ENTONCES EL JUEGO ES: Age of Empires II (Retired)
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 1 Y Is_PVP = 0 Y Genre_Indie = 1 Y Genre_Rol = 0 Y Genre_Casual = 0 → ENTONCES EL JUEGO ES: Dicey Dungeons
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 1 Y Is_PVP = 0 Y Genre_Indie = 1 Y Genre_Rol = 0 Y Genre_Casual = 1 → ENTONCES EL JUEGO ES: ISLANDERS
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 1 Y Is_PVP = 0 Y Genre_Indie = 1 Y Genre_Rol = 1 Y Mixed = 0 → ENTONCES EL JUEGO ES: Darkest DungeonÂ®
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 1 Y Is_PVP = 0 Y Genre_Indie = 1 Y Genre_Rol = 1 Y Mixed = 1 → ENTONCES EL JUEGO ES: Wildermyth
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 1 Y Is_PVP = 1 Y Mixed = 0 Y Is_free = 0 Y Genre_Rol = 0 → ENTONCES EL JUEGO ES: Age of Empires: Definitive Edition
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 1 Y Is_PVP = 1 Y Mixed = 0 Y Is_free = 0 Y Genre_Rol = 1 → ENTONCES EL JUEGO ES: ENDLESSâ¢ Legend
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 1 Y Is_PVP = 1 Y Mixed = 0 Y Is_free = 1 → ENTONCES EL JUEGO ES: Age of Empires III: Definitive Edition
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 1 Y Is_PVP = 1 Y Mixed = 1 → ENTONCES EL JUEGO ES: Age of Empires II: Definitive Edition
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 Y Genre_Indie = 0 Y Genre_Deportes = 0 Y Un jugador = 0 → ENTONCES EL JUEGO ES: Farming Simulator 15
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 Y Genre_Indie = 0 Y Genre_Deportes = 0 Y Un jugador = 1 Y Genre_Casual = 0 → ENTONCES EL JUEGO ES: Hardspace: Shipbreaker
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 Y Genre_Indie = 0 Y Genre_Deportes = 0 Y Un jugador = 1 Y Genre_Casual = 1 → ENTONCES EL JUEGO ES: Cooking Simulator
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 Y Genre_Indie = 0 Y Genre_Deportes = 1 Y Is_PVP = 0 → ENTONCES EL JUEGO ES: Football Manager 2020
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 Y Genre_Indie = 0 Y Genre_Deportes = 1 Y Is_PVP = 1 → ENTONCES EL JUEGO ES: Assetto Corsa Competizione
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 Y Genre_Indie = 1 Y Genre_Casual = 0 Y Mixed = 0 Y Genre_Rol = 0 Y Is_PVP = 0 → ENTONCES EL JUEGO ES: Five Nights at Freddy's
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 Y Genre_Indie = 1 Y Genre_Casual = 0 Y Mixed = 0 Y Genre_Rol = 0 Y Is_PVP = 1 Y Genre_Carreras = 0 → ENTONCES EL JUEGO ES: Monster Prom
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 Y Genre_Indie = 1 Y Genre_Casual = 0 Y Mixed = 0 Y Genre_Rol = 0 Y Is_PVP = 1 Y Genre_Carreras = 1 → ENTONCES EL JUEGO ES: Assetto Corsa
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 Y Genre_Indie = 1 Y Genre_Casual = 0 Y Mixed = 0 Y Genre_Rol = 1 → ENTONCES EL JUEGO ES: Cultist Simulator
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 Y Genre_Indie = 1 Y Genre_Casual = 0 Y Mixed = 1 → ENTONCES EL JUEGO ES: American Truck Simulator
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 Y Genre_Indie = 1 Y Genre_Casual = 1 Y Mixed = 0 → ENTONCES EL JUEGO ES: Gas Station Simulator
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 Y Genre_Indie = 1 Y Genre_Casual = 1 Y Mixed = 1 → ENTONCES EL JUEGO ES: House Flipper 2
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 → ENTONCES EL JUEGO ES: Age of Mythology: Extended Edition
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 1 → ENTONCES EL JUEGO ES: Tropico 5
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 1 → ENTONCES EL JUEGO ES: Anno 1800
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Rol = 0 Y Genre_Casual = 0 Y Genre_Carreras = 0 → ENTONCES EL JUEGO ES: Against the Storm
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Rol = 0 Y Genre_Casual = 0 Y Genre_Carreras = 1 → ENTONCES EL JUEGO ES: Motorsport Manager
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Rol = 0 Y Genre_Casual = 1 → ENTONCES EL JUEGO ES: Mini Motorways
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Rol = 1 Y Is_free = 0 → ENTONCES EL JUEGO ES: Battle Brothers
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Rol = 1 Y Is_free = 1 → ENTONCES EL JUEGO ES: Crusader Kings II
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Rol = 0 → ENTONCES EL JUEGO ES: Imperator: Rome
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Rol = 1 → ENTONCES EL JUEGO ES: Crusader Kings III
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 1 Y Un jugador = 0 Y Genre_Casual = 0 → ENTONCES EL JUEGO ES: The Escapists 2
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 1 Y Un jugador = 0 Y Genre_Casual = 1 → ENTONCES EL JUEGO ES: Factorio
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 1 Y Un jugador = 1 Y Genre_Casual = 0 → ENTONCES EL JUEGO ES: Banished
+SI Genre_Aventura = 0 Y Genre_Accion = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 Y Genre_Indie = 1 Y Un jugador = 1 Y Genre_Casual = 1 → ENTONCES EL JUEGO ES: Game Dev Tycoon
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 0 Y Genre_Indie = 0 Y Genre_Estrategia = 0 Y Genre_Simuladores = 0 → ENTONCES EL JUEGO ES: Aliens vs. Predatorâ¢
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 0 Y Genre_Indie = 0 Y Genre_Estrategia = 0 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: MechWarrior 5: Mercenaries
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 0 Y Genre_Indie = 0 Y Genre_Estrategia = 1 Y Genre_Simuladores = 0 → ENTONCES EL JUEGO ES: Jagged Alliance 3
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 0 Y Genre_Indie = 0 Y Genre_Estrategia = 1 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: Men of War: Assault Squad 2
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 0 Y Genre_Indie = 1 Y Genre_Estrategia = 0 → ENTONCES EL JUEGO ES: Cuphead
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 0 Y Genre_Indie = 1 Y Genre_Estrategia = 1 Y Genre_Simuladores = 0 → ENTONCES EL JUEGO ES: Party Hard
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 0 Y Genre_Indie = 1 Y Genre_Estrategia = 1 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: Door Kickers 2: Task Force North
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 1 Y Is_free = 0 Y Genre_Indie = 0 → ENTONCES EL JUEGO ES: Counter-Strike: Source
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 1 Y Is_free = 0 Y Genre_Indie = 1 Y Genre_Estrategia = 0 → ENTONCES EL JUEGO ES: Chivalry: Medieval Warfare
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 1 Y Is_free = 0 Y Genre_Indie = 1 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: Insurgency
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 1 Y Is_free = 1 Y Genre_Estrategia = 0 → ENTONCES EL JUEGO ES: Team Fortress 2
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 1 Y Is_free = 1 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: Dota 2
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 1 Y Genre_Indie = 0 Y Genre_Simuladores = 0 → ENTONCES EL JUEGO ES: Borderlands 2
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 1 Y Genre_Indie = 0 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: State of Decay 2: Juggernaut Edition
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 1 Y Genre_Indie = 1 → ENTONCES EL JUEGO ES: Crypt of the NecroDancer
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 0 Y Mixed = 0 Y Genre_Simuladores = 0 → ENTONCES EL JUEGO ES: Counter-Strike
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 0 Y Mixed = 0 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: Red Orchestra 2: Heroes of Stalingrad with Rising Storm
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 0 Y Mixed = 1 Y Genre_Rol = 0 Y Genre_Simuladores = 0 → ENTONCES EL JUEGO ES: Back 4 Blood
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 0 Y Mixed = 1 Y Genre_Rol = 0 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: STAR WARSâ¢: Squadrons
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 0 Y Mixed = 1 Y Genre_Rol = 1 Y Gano_GOTY = 0 → ENTONCES EL JUEGO ES: Dying Light
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 0 Y Mixed = 1 Y Genre_Rol = 1 Y Gano_GOTY = 1 → ENTONCES EL JUEGO ES: ELDEN RING
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 1 Y Genre_Simuladores = 0 → ENTONCES EL JUEGO ES: Total War: THREE KINGDOMS
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 1 Y Genre_Simuladores = 1 Y Genre_Multijugador masivo = 0 → ENTONCES EL JUEGO ES: Arma 2: Operation Arrowhead
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 1 Y Genre_Simuladores = 1 Y Genre_Multijugador masivo = 1 → ENTONCES EL JUEGO ES: Rising Storm 2: Vietnam
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Estrategia = 0 Y Genre_Casual = 0 Y Multijugador = 0 Y Genre_Deportes = 0 → ENTONCES EL JUEGO ES: Clone Drone in the Danger Zone
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Estrategia = 0 Y Genre_Casual = 0 Y Multijugador = 0 Y Genre_Deportes = 1 → ENTONCES EL JUEGO ES: Rocket LeagueÂ®
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Estrategia = 0 Y Genre_Casual = 0 Y Multijugador = 1 → ENTONCES EL JUEGO ES: MORDHAU
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Estrategia = 0 Y Genre_Casual = 1 Y Genre_Deportes = 0 → ENTONCES EL JUEGO ES: Overcooked! 2
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Estrategia = 0 Y Genre_Casual = 1 Y Genre_Deportes = 1 → ENTONCES EL JUEGO ES: Fall Guys
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Estrategia = 1 Y Genre_Simuladores = 0 Y Mixed = 0 → ENTONCES EL JUEGO ES: Day of Infamy
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Estrategia = 1 Y Genre_Simuladores = 0 Y Mixed = 1 → ENTONCES EL JUEGO ES: Awesomenauts
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Estrategia = 1 Y Genre_Simuladores = 1 Y Mixed = 0 → ENTONCES EL JUEGO ES: Hell Let Loose
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Estrategia = 1 Y Genre_Simuladores = 1 Y Mixed = 1 → ENTONCES EL JUEGO ES: Barotrauma
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Indie = 0 Y Genre_Rol = 0 Y Genre_Estrategia = 0 Y Genre_Carreras = 0 → ENTONCES EL JUEGO ES: Alien: Isolation
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Indie = 0 Y Genre_Rol = 0 Y Genre_Estrategia = 0 Y Genre_Carreras = 1 → ENTONCES EL JUEGO ES: Need for Speedâ¢ Hot Pursuit Remastered
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Indie = 0 Y Genre_Rol = 0 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: Aliens: Dark Descent
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Indie = 0 Y Genre_Rol = 1 → ENTONCES EL JUEGO ES: BioShockâ¢
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Indie = 1 Y Genre_Rol = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 → ENTONCES EL JUEGO ES: EVERSPACEâ¢
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Indie = 1 Y Genre_Rol = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: Five Nights at Freddy's 4
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Indie = 1 Y Genre_Rol = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 → ENTONCES EL JUEGO ES: Five Nights at Freddy's: Sister Location
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Indie = 1 Y Genre_Rol = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: Teardown
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Indie = 1 Y Genre_Rol = 1 Y Genre_Estrategia = 0 → ENTONCES EL JUEGO ES: Bastion
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 0 Y Genre_Indie = 1 Y Genre_Rol = 1 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: Kenshi
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 0 Y Genre_Deportes = 0 Y Genre_Simuladores = 0 Y Is_free = 0 → ENTONCES EL JUEGO ES: Battlefield 3â¢
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 0 Y Genre_Deportes = 0 Y Genre_Simuladores = 0 Y Is_free = 1 → ENTONCES EL JUEGO ES: Battlerite
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 0 Y Genre_Deportes = 0 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: ACE COMBATâ¢ 7: SKIES UNKNOWN
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 0 Y Genre_Deportes = 1 → ENTONCES EL JUEGO ES: Steepâ¢
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 0 Y Genre_Rol = 1 → ENTONCES EL JUEGO ES: S.T.A.L.K.E.R.: Call of Pripyat
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 1 Y Genre_Casual = 0 Y Genre_Simuladores = 0 → ENTONCES EL JUEGO ES: Worms W.M.D
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 1 Y Genre_Casual = 0 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: Warhammer 40,000: Dawn of War III
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Indie = 0 Y Genre_Estrategia = 1 Y Genre_Casual = 1 → ENTONCES EL JUEGO ES: Plants vs. Zombiesâ¢ La Batalla de Neighborville
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Simuladores = 0 Y Genre_Carreras = 0 → ENTONCES EL JUEGO ES: Depth
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Simuladores = 0 Y Genre_Carreras = 1 → ENTONCES EL JUEGO ES: SpeedRunners
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Simuladores = 1 Y Genre_Multijugador masivo = 0 Y Genre_Carreras = 0 → ENTONCES EL JUEGO ES: Mount & Blade II: Bannerlord
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Simuladores = 1 Y Genre_Multijugador masivo = 0 Y Genre_Carreras = 1 → ENTONCES EL JUEGO ES: Wreckfest
+SI Genre_Aventura = 0 Y Genre_Accion = 1 Y Un jugador = 1 Y Is_PVP = 1 Y Genre_Indie = 1 Y Genre_Simuladores = 1 Y Genre_Multijugador masivo = 1 → ENTONCES EL JUEGO ES: Isonzo
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 0 → ENTONCES EL JUEGO ES: Beyond: Two Souls
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 0 Y Multijugador = 1 → ENTONCES EL JUEGO ES: It Takes Two
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 1 Y Genre_Estrategia = 0 Y Genre_Accion = 0 → ENTONCES EL JUEGO ES: Baldur's Gate: Enhanced Edition
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 1 Y Genre_Estrategia = 0 Y Genre_Accion = 1 → ENTONCES EL JUEGO ES: Borderlands 4
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 1 Y Genre_Estrategia = 1 Y Genre_Accion = 0 Y Gano_GOTY = 0 → ENTONCES EL JUEGO ES: Gloomhaven
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 1 Y Genre_Estrategia = 1 Y Genre_Accion = 0 Y Gano_GOTY = 1 → ENTONCES EL JUEGO ES: Baldur's Gate 3
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 1 Y Genre_Estrategia = 1 Y Genre_Accion = 1 Y Gano_GOTY = 0 → ENTONCES EL JUEGO ES: Elite Dangerous
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 0 Y Genre_Rol = 1 Y Genre_Estrategia = 1 Y Genre_Accion = 1 Y Gano_GOTY = 1 → ENTONCES EL JUEGO ES: Dragon Ageâ¢ Inquisition
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Rol = 0 Y Genre_Casual = 0 Y Genre_Multijugador masivo = 0 Y Genre_Deportes = 0 → ENTONCES EL JUEGO ES: Gears 5
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Rol = 0 Y Genre_Casual = 0 Y Genre_Multijugador masivo = 0 Y Genre_Deportes = 1 → ENTONCES EL JUEGO ES: Need for Speedâ¢ Payback
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Rol = 0 Y Genre_Casual = 0 Y Genre_Multijugador masivo = 1 → ENTONCES EL JUEGO ES: Z1 Battle Royale
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Rol = 0 Y Genre_Casual = 1 Y Genre_Multijugador masivo = 0 → ENTONCES EL JUEGO ES: Sonic Mania
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Rol = 0 Y Genre_Casual = 1 Y Genre_Multijugador masivo = 1 → ENTONCES EL JUEGO ES: DRAGON BALL XENOVERSE 2
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Rol = 1 Y Genre_Multijugador masivo = 0 Y Genre_Accion = 0 → ENTONCES EL JUEGO ES: Monster Hunter Stories 2: Wings of Ruin
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Rol = 1 Y Genre_Multijugador masivo = 0 Y Genre_Accion = 1 → ENTONCES EL JUEGO ES: Lords of the Fallen
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Rol = 1 Y Genre_Multijugador masivo = 1 Y Genre_Estrategia = 0 → ENTONCES EL JUEGO ES: The Elder ScrollsÂ® Online
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 0 Y Is_PVP = 1 Y Genre_Rol = 1 Y Genre_Multijugador masivo = 1 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: Black Desert
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Accion = 0 Y Genre_Estrategia = 0 → ENTONCES EL JUEGO ES: Assassinâs CreedÂ® III
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Accion = 0 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: L.A. Noire
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Accion = 1 Y Is_PVP = 0 Y Genre_Casual = 0 Y Genre_Simuladores = 0 Y Gano_GOTY = 0 → ENTONCES EL JUEGO ES: A Plague Tale: Innocence
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Accion = 1 Y Is_PVP = 0 Y Genre_Casual = 0 Y Genre_Simuladores = 0 Y Gano_GOTY = 1 → ENTONCES EL JUEGO ES: Sekiroâ¢: Shadows Die Twice - GOTY Edition
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Accion = 1 Y Is_PVP = 0 Y Genre_Casual = 0 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: Contraband Police
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Accion = 1 Y Is_PVP = 0 Y Genre_Casual = 1 Y Genre_Estrategia = 0 → ENTONCES EL JUEGO ES: The Wolf Among Us
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Accion = 1 Y Is_PVP = 0 Y Genre_Casual = 1 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: Planet Coaster
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Accion = 1 Y Is_PVP = 1 Y Genre_Estrategia = 0 Y Genre_Carreras = 0 → ENTONCES EL JUEGO ES: NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Accion = 1 Y Is_PVP = 1 Y Genre_Estrategia = 0 Y Genre_Carreras = 1 → ENTONCES EL JUEGO ES: Need for Speedâ¢ Most Wanted
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Accion = 1 Y Is_PVP = 1 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: BATTLETECH
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 1 Y Genre_Accion = 0 → ENTONCES EL JUEGO ES: Pathfinder: Kingmaker â Enhanced Plus Edition
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 1 Y Genre_Accion = 1 Y Genre_Simuladores = 0 Y Gano_GOTY = 0 → ENTONCES EL JUEGO ES: Atomic Heart
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 1 Y Genre_Accion = 1 Y Genre_Simuladores = 0 Y Gano_GOTY = 1 → ENTONCES EL JUEGO ES: God of War
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 1 Y Genre_Accion = 1 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 → ENTONCES EL JUEGO ES: EVERSPACEâ¢ 2
+SI Genre_Aventura = 1 Y Genre_Indie = 0 Y Un jugador = 1 Y Genre_Rol = 1 Y Genre_Accion = 1 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: SPOREâ¢
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 0 Y Genre_Casual = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Mixed = 0 → ENTONCES EL JUEGO ES: Antichamber
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 0 Y Genre_Casual = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 0 Y Mixed = 1 → ENTONCES EL JUEGO ES: A Hat in Time
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 0 Y Genre_Casual = 0 Y Genre_Simuladores = 0 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: Beholder
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 0 Y Genre_Casual = 0 Y Genre_Simuladores = 1 Y Mixed = 0 → ENTONCES EL JUEGO ES: Don't Starve
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 0 Y Genre_Casual = 0 Y Genre_Simuladores = 1 Y Mixed = 1 Y Genre_Estrategia = 0 → ENTONCES EL JUEGO ES: SpiritfarerÂ®: EdiciÃ³n Farewell
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 0 Y Genre_Casual = 0 Y Genre_Simuladores = 1 Y Mixed = 1 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: Satisfactory
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 0 Y Genre_Casual = 1 Y Un jugador = 0 → ENTONCES EL JUEGO ES: We Were Here Together
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 0 Y Genre_Casual = 1 Y Un jugador = 1 Y Genre_Simuladores = 0 → ENTONCES EL JUEGO ES: Coffee Talk
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 0 Y Genre_Casual = 1 Y Un jugador = 1 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: ABZU
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 1 Y Un jugador = 0 Y Genre_Estrategia = 0 Y Mixed = 0 → ENTONCES EL JUEGO ES: Temtem
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 1 Y Un jugador = 0 Y Genre_Estrategia = 0 Y Mixed = 1 Y Genre_Casual = 0 → ENTONCES EL JUEGO ES: Sea of Stars
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 1 Y Un jugador = 0 Y Genre_Estrategia = 0 Y Mixed = 1 Y Genre_Casual = 1 → ENTONCES EL JUEGO ES: My Time at Sandrock
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 1 Y Un jugador = 0 Y Genre_Estrategia = 1 Y Is_PVP = 0 → ENTONCES EL JUEGO ES: Divinity: Original Sin - Enhanced Edition
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 1 Y Un jugador = 0 Y Genre_Estrategia = 1 Y Is_PVP = 1 → ENTONCES EL JUEGO ES: For The King
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 1 Y Un jugador = 1 Y Genre_Estrategia = 0 Y Genre_Casual = 0 Y Genre_Simuladores = 0 → ENTONCES EL JUEGO ES: Cloudpunk
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 1 Y Un jugador = 1 Y Genre_Estrategia = 0 Y Genre_Casual = 0 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: Graveyard Keeper
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 1 Y Un jugador = 1 Y Genre_Estrategia = 0 Y Genre_Casual = 1 → ENTONCES EL JUEGO ES: Impostor Factory
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 1 Y Un jugador = 1 Y Genre_Estrategia = 1 Y Is_PVP = 0 → ENTONCES EL JUEGO ES: Shadowrun Returns
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 0 Y Genre_Rol = 1 Y Un jugador = 1 Y Genre_Estrategia = 1 Y Is_PVP = 1 → ENTONCES EL JUEGO ES: Armello
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 0 Y Is_PVP = 0 Y Genre_Simuladores = 0 Y Genre_Casual = 0 → ENTONCES EL JUEGO ES: Aragami
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 0 Y Is_PVP = 0 Y Genre_Simuladores = 0 Y Genre_Casual = 1 → ENTONCES EL JUEGO ES: Teenage Mutant Ninja Turtles: Shredder's Revenge
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 0 Y Is_PVP = 0 Y Genre_Simuladores = 1 Y Genre_Deportes = 0 → ENTONCES EL JUEGO ES: Green Hell
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 0 Y Is_PVP = 0 Y Genre_Simuladores = 1 Y Genre_Deportes = 1 → ENTONCES EL JUEGO ES: Skater XL - The Ultimate Skateboarding Game
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 0 Y Is_PVP = 1 Y Genre_Casual = 0 → ENTONCES EL JUEGO ES: Absolver
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 0 Y Is_PVP = 1 Y Genre_Casual = 1 → ENTONCES EL JUEGO ES: BattleBlock TheaterÂ®
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 1 Y Is_PVP = 0 Y Genre_Estrategia = 0 Y Genre_Multijugador masivo = 0 Y Genre_Simuladores = 0 → ENTONCES EL JUEGO ES: Grim Dawn
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 1 Y Is_PVP = 0 Y Genre_Estrategia = 0 Y Genre_Multijugador masivo = 0 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: Medieval Dynasty
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 1 Y Is_PVP = 0 Y Genre_Estrategia = 0 Y Genre_Multijugador masivo = 1 → ENTONCES EL JUEGO ES: ARK: Survival Evolved
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 1 Y Is_PVP = 0 Y Genre_Estrategia = 1 Y Genre_Simuladores = 0 → ENTONCES EL JUEGO ES: Orcs Must Die! 2
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 1 Y Is_PVP = 0 Y Genre_Estrategia = 1 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: The Riftbreaker
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 1 Y Is_PVP = 1 Y Multijugador = 0 Y Genre_Estrategia = 0 Y Genre_Casual = 0 → ENTONCES EL JUEGO ES: Hyper Light Drifter
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 1 Y Is_PVP = 1 Y Multijugador = 0 Y Genre_Estrategia = 0 Y Genre_Casual = 1 → ENTONCES EL JUEGO ES: Starbound
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 1 Y Is_PVP = 1 Y Multijugador = 0 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: Don't Starve Together
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 0 Y Genre_Rol = 1 Y Is_PVP = 1 Y Multijugador = 1 → ENTONCES EL JUEGO ES: Rust
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Simuladores = 0 Y Is_PVP = 0 → ENTONCES EL JUEGO ES: ANIMAL WELL
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Simuladores = 0 Y Is_PVP = 1 → ENTONCES EL JUEGO ES: Black Mesa
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 0 → ENTONCES EL JUEGO ES: BONEWORKS
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 1 Y Genre_Rol = 0 Y Genre_Simuladores = 1 Y Genre_Estrategia = 1 → ENTONCES EL JUEGO ES: The Escapists
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 1 Y Genre_Rol = 1 Y Genre_Estrategia = 0 Y Genre_Simuladores = 0 Y Genre_Casual = 0 → ENTONCES EL JUEGO ES: CrossCode
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 1 Y Genre_Rol = 1 Y Genre_Estrategia = 0 Y Genre_Simuladores = 0 Y Genre_Casual = 1 → ENTONCES EL JUEGO ES: Book of Demons
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 1 Y Genre_Rol = 1 Y Genre_Estrategia = 0 Y Genre_Simuladores = 1 → ENTONCES EL JUEGO ES: Chernobylite Complete Edition
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 1 Y Genre_Rol = 1 Y Genre_Estrategia = 1 Y Is_PVP = 0 → ENTONCES EL JUEGO ES: Pathfinder: Wrath of the Righteous - Enhanced Edition
+SI Genre_Aventura = 1 Y Genre_Indie = 1 Y Genre_Accion = 1 Y Un jugador = 1 Y Genre_Rol = 1 Y Genre_Estrategia = 1 Y Is_PVP = 1 → ENTONCES EL JUEGO ES: Monster Sanctuary
